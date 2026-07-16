@@ -1,0 +1,33 @@
+﻿Supplier_ID,Supplier_Name,Supplier_Country,Supplier_City,Supplier_Tier,Reliability_Score
+SUP001,Apex Global,India,Mumbai,B,87.7
+SUP002,Zenith Corp,Germany,Munich,B,85.6
+SUP003,Pinnacle Group,India,Chennai,A,92.9
+SUP004,Summit Partners,India,Chennai,A,97.2
+SUP005,Vertex Industries,China,Shanghai,B,86.2
+SUP006,Horizon Group,Germany,Munich,A,97.8
+SUP007,Meridian Group,China,Shenzhen,C,70.3
+SUP008,Axis Partners,Bangladesh,Dhaka,A,93.1
+SUP009,Nexus Corp,USA,Chicago,B,85.1
+SUP010,Fusion Global,Bangladesh,Dhaka,B,83.7
+SUP011,Quantum Global,Vietnam,Ho Chi Minh City,B,82.8
+SUP012,Catalyst Partners,India,Mumbai,A,94.2
+SUP013,Velocity Global,India,Bangalore,B,86.7
+SUP014,Kinetic Partners,USA,Chicago,A,95.1
+SUP015,Dynamic Industries,India,Bangalore,B,82.3
+SUP016,Omega Group,USA,Atlanta,B,83
+SUP017,Delta Industries,Germany,Munich,A,97.7
+SUP018,Sigma Industries,Germany,Stuttgart,C,73.9
+SUP019,Prime Partners,Germany,Munich,B,82.6
+SUP020,Core Global,USA,Atlanta,B,84.6
+SUP021,Orbit Global,Vietnam,Hanoi,A,95
+SUP022,Atlas Industries,Germany,Stuttgart,A,97.5
+SUP023,Titan Corp,Vietnam,Ho Chi Minh City,A,96
+SUP024,Nova Global,Turkey,Istanbul,B,85.1
+SUP025,Stellar Industries,Germany,Stuttgart,B,83.1
+SUP026,Lumen Global,Germany,Munich,C,73.7
+SUP027,Radiant Industries,Bangladesh,Dhaka,C,74.4
+SUP028,Synergy Corp,Germany,Stuttgart,B,87.5
+SUP029,Unity Partners,Turkey,Istanbul,A,93.2
+SUP030,Vanguard Corp,Vietnam,Hanoi,A,94
+SUP031,Pioneer Group,Germany,Stuttgart,B,83.6
+SUP032,Beacon Global,Bangladesh,Dhaka,C,71.1

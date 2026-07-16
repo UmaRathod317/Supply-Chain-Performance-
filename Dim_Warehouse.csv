@@ -1,0 +1,21 @@
+﻿Warehouse_ID,Warehouse_City,Warehouse_Country,Warehouse_Region,Capacity_Units
+WH01,Mumbai,India,Asia,50000
+WH02,Delhi,India,Asia,45000
+WH03,Shanghai,China,Asia,80000
+WH04,Shenzhen,China,Asia,70000
+WH05,Singapore,Singapore,Asia,60000
+WH06,Tokyo,Japan,Asia,55000
+WH07,Seoul,South Korea,Asia,40000
+WH08,Hamburg,Germany,Europe,65000
+WH09,Rotterdam,Netherlands,Europe,75000
+WH10,Barcelona,Spain,Europe,45000
+WH11,Milan,Italy,Europe,40000
+WH12,Manchester,UK,Europe,50000
+WH13,Chicago,USA,North America,70000
+WH14,Los Angeles,USA,North America,85000
+WH15,Dallas,USA,North America,60000
+WH16,New York,USA,North America,65000
+WH17,Toronto,Canada,North America,45000
+WH18,Mexico City,Mexico,North America,40000
+WH19,São Paulo,Brazil,South America,50000
+WH20,Dubai,UAE,Middle East,55000

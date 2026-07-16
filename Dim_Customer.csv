@@ -1,0 +1,1501 @@
+﻿Customer_ID,Customer_Region,Customer_Country,Customer_City,Customer_Segment
+CUST00001,Middle East,UAE,Dubai,E-commerce
+CUST00002,Asia,Singapore,Singapore,Retail
+CUST00003,South America,Brazil,São Paulo,Retail
+CUST00004,Asia,South Korea,Seoul,Corporate
+CUST00005,Middle East,UAE,Abu Dhabi,Corporate
+CUST00006,Europe,Germany,Berlin,Retail
+CUST00007,North America,Canada,Vancouver,E-commerce
+CUST00008,Asia,China,Beijing,Corporate
+CUST00009,South America,Argentina,Buenos Aires,Wholesale
+CUST00010,North America,Mexico,Guadalajara,Wholesale
+CUST00011,Europe,Italy,Milan,Retail
+CUST00012,North America,USA,Chicago,Wholesale
+CUST00013,South America,Brazil,São Paulo,E-commerce
+CUST00014,Europe,Italy,Milan,Corporate
+CUST00015,North America,Canada,Vancouver,Corporate
+CUST00016,North America,Mexico,Mexico City,Wholesale
+CUST00017,South America,Argentina,Buenos Aires,Retail
+CUST00018,Europe,Italy,Rome,Retail
+CUST00019,Europe,Spain,Barcelona,Retail
+CUST00020,Europe,France,Paris,Corporate
+CUST00021,Asia,India,Hyderabad,Corporate
+CUST00022,Asia,Singapore,Singapore,Retail
+CUST00023,North America,USA,New York,Retail
+CUST00024,Asia,Japan,Tokyo,Corporate
+CUST00025,North America,Mexico,Guadalajara,Retail
+CUST00026,North America,USA,Boston,Retail
+CUST00027,Asia,Singapore,Singapore,Corporate
+CUST00028,Europe,Spain,Madrid,Corporate
+CUST00029,North America,USA,New York,E-commerce
+CUST00030,Europe,Italy,Milan,Retail
+CUST00031,North America,Mexico,Mexico City,Retail
+CUST00032,Europe,France,Paris,Retail
+CUST00033,Asia,Singapore,Singapore,E-commerce
+CUST00034,North America,USA,Chicago,Corporate
+CUST00035,Europe,France,Paris,Retail
+CUST00036,Asia,Japan,Tokyo,Retail
+CUST00037,Europe,Italy,Milan,Wholesale
+CUST00038,North America,Mexico,Mexico City,Retail
+CUST00039,Middle East,Saudi Arabia,Riyadh,Wholesale
+CUST00040,Europe,Spain,Madrid,Corporate
+CUST00041,Europe,UK,London,Retail
+CUST00042,Europe,UK,Manchester,Wholesale
+CUST00043,Asia,India,Delhi,Retail
+CUST00044,Asia,Japan,Osaka,Retail
+CUST00045,South America,Brazil,Rio de Janeiro,Wholesale
+CUST00046,Europe,UK,Birmingham,Retail
+CUST00047,Europe,Germany,Munich,Corporate
+CUST00048,Asia,India,Chennai,Retail
+CUST00049,Europe,UK,London,Corporate
+CUST00050,North America,Canada,Vancouver,Retail
+CUST00051,Europe,France,Paris,Corporate
+CUST00052,Europe,UK,London,E-commerce
+CUST00053,North America,Mexico,Mexico City,Retail
+CUST00054,Asia,Singapore,Singapore,Corporate
+CUST00055,Asia,Japan,Tokyo,Corporate
+CUST00056,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST00057,Europe,Italy,Rome,Corporate
+CUST00058,Europe,Italy,Rome,Corporate
+CUST00059,Middle East,UAE,Dubai,Retail
+CUST00060,Middle East,Saudi Arabia,Riyadh,E-commerce
+CUST00061,Asia,South Korea,Seoul,Retail
+CUST00062,Asia,India,Mumbai,Retail
+CUST00063,Asia,South Korea,Seoul,Corporate
+CUST00064,Asia,Japan,Osaka,Retail
+CUST00065,North America,Canada,Montreal,Retail
+CUST00066,North America,Mexico,Mexico City,Retail
+CUST00067,Asia,Singapore,Singapore,Corporate
+CUST00068,North America,Canada,Toronto,E-commerce
+CUST00069,North America,Mexico,Guadalajara,Wholesale
+CUST00070,Asia,India,Pune,Retail
+CUST00071,North America,Mexico,Mexico City,Wholesale
+CUST00072,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00073,Europe,Germany,Hamburg,Wholesale
+CUST00074,Asia,Japan,Osaka,E-commerce
+CUST00075,South America,Brazil,Rio de Janeiro,Retail
+CUST00076,North America,Mexico,Guadalajara,Wholesale
+CUST00077,Asia,Singapore,Singapore,E-commerce
+CUST00078,Europe,Netherlands,Rotterdam,Wholesale
+CUST00079,Asia,South Korea,Seoul,E-commerce
+CUST00080,Europe,UK,Manchester,Retail
+CUST00081,South America,Argentina,Buenos Aires,Retail
+CUST00082,Asia,South Korea,Seoul,E-commerce
+CUST00083,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST00084,North America,Canada,Vancouver,Retail
+CUST00085,Asia,China,Beijing,Retail
+CUST00086,North America,Mexico,Guadalajara,Wholesale
+CUST00087,North America,Canada,Vancouver,Wholesale
+CUST00088,Asia,Singapore,Singapore,Corporate
+CUST00089,Asia,South Korea,Seoul,Corporate
+CUST00090,Europe,Italy,Milan,E-commerce
+CUST00091,Europe,Italy,Milan,Retail
+CUST00092,Asia,Japan,Osaka,Wholesale
+CUST00093,North America,USA,Seattle,Retail
+CUST00094,Asia,China,Shenzhen,Wholesale
+CUST00095,Asia,Japan,Tokyo,Wholesale
+CUST00096,North America,USA,Los Angeles,Retail
+CUST00097,Asia,India,Mumbai,E-commerce
+CUST00098,Europe,UK,Manchester,Retail
+CUST00099,North America,Mexico,Mexico City,E-commerce
+CUST00100,Middle East,Saudi Arabia,Riyadh,Wholesale
+CUST00101,Europe,Italy,Milan,Retail
+CUST00102,North America,Mexico,Guadalajara,Corporate
+CUST00103,Europe,Netherlands,Rotterdam,E-commerce
+CUST00104,Asia,China,Shanghai,Corporate
+CUST00105,Asia,India,Mumbai,Corporate
+CUST00106,Asia,Singapore,Singapore,Retail
+CUST00107,Asia,China,Shenzhen,Corporate
+CUST00108,North America,Mexico,Guadalajara,Corporate
+CUST00109,Middle East,UAE,Dubai,Retail
+CUST00110,Asia,India,Chennai,E-commerce
+CUST00111,Asia,China,Beijing,E-commerce
+CUST00112,Asia,South Korea,Seoul,E-commerce
+CUST00113,Asia,Singapore,Singapore,E-commerce
+CUST00114,Europe,Spain,Barcelona,E-commerce
+CUST00115,Asia,China,Shenzhen,Corporate
+CUST00116,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST00117,North America,Canada,Toronto,Corporate
+CUST00118,Europe,Italy,Rome,Corporate
+CUST00119,Europe,Spain,Barcelona,E-commerce
+CUST00120,Asia,China,Beijing,Retail
+CUST00121,Middle East,Saudi Arabia,Riyadh,E-commerce
+CUST00122,Europe,Italy,Rome,Corporate
+CUST00123,Asia,China,Beijing,Retail
+CUST00124,Europe,France,Lyon,Retail
+CUST00125,Europe,Spain,Madrid,Retail
+CUST00126,Middle East,UAE,Dubai,E-commerce
+CUST00127,North America,USA,Houston,Corporate
+CUST00128,Asia,China,Shenzhen,Wholesale
+CUST00129,North America,USA,New York,Retail
+CUST00130,South America,Argentina,Buenos Aires,Wholesale
+CUST00131,Middle East,Saudi Arabia,Riyadh,Wholesale
+CUST00132,North America,Canada,Toronto,Retail
+CUST00133,Middle East,UAE,Abu Dhabi,E-commerce
+CUST00134,Asia,Singapore,Singapore,Retail
+CUST00135,Europe,Spain,Barcelona,Wholesale
+CUST00136,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00137,Europe,France,Lyon,Retail
+CUST00138,Middle East,Saudi Arabia,Riyadh,Wholesale
+CUST00139,North America,Mexico,Mexico City,Corporate
+CUST00140,Europe,Netherlands,Amsterdam,Retail
+CUST00141,Asia,Japan,Osaka,E-commerce
+CUST00142,North America,Canada,Toronto,E-commerce
+CUST00143,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST00144,North America,Mexico,Guadalajara,E-commerce
+CUST00145,North America,Mexico,Mexico City,Retail
+CUST00146,Europe,Netherlands,Amsterdam,Retail
+CUST00147,Middle East,UAE,Abu Dhabi,Corporate
+CUST00148,Asia,South Korea,Seoul,Corporate
+CUST00149,North America,USA,Boston,Retail
+CUST00150,Asia,Singapore,Singapore,Corporate
+CUST00151,Europe,Netherlands,Amsterdam,Wholesale
+CUST00152,Europe,Germany,Munich,E-commerce
+CUST00153,Europe,Netherlands,Rotterdam,Corporate
+CUST00154,South America,Brazil,Rio de Janeiro,Retail
+CUST00155,Asia,Japan,Osaka,Retail
+CUST00156,North America,Canada,Vancouver,Corporate
+CUST00157,North America,Canada,Vancouver,Retail
+CUST00158,Asia,India,Chennai,Retail
+CUST00159,Europe,Germany,Hamburg,Corporate
+CUST00160,Europe,Spain,Madrid,Retail
+CUST00161,South America,Argentina,Buenos Aires,Retail
+CUST00162,Europe,Italy,Milan,Wholesale
+CUST00163,Europe,Italy,Milan,Corporate
+CUST00164,South America,Brazil,São Paulo,E-commerce
+CUST00165,Asia,China,Shanghai,E-commerce
+CUST00166,Europe,Spain,Madrid,Retail
+CUST00167,Europe,UK,London,E-commerce
+CUST00168,Europe,Netherlands,Amsterdam,Retail
+CUST00169,North America,Mexico,Mexico City,Retail
+CUST00170,Asia,Singapore,Singapore,Retail
+CUST00171,Asia,Japan,Tokyo,Retail
+CUST00172,Asia,South Korea,Seoul,Corporate
+CUST00173,Asia,China,Beijing,Retail
+CUST00174,South America,Brazil,São Paulo,Corporate
+CUST00175,North America,Canada,Montreal,Retail
+CUST00176,Asia,Singapore,Singapore,Retail
+CUST00177,Asia,China,Shanghai,Retail
+CUST00178,Asia,South Korea,Seoul,Retail
+CUST00179,Asia,India,Hyderabad,Corporate
+CUST00180,Asia,Japan,Tokyo,Retail
+CUST00181,Europe,Spain,Madrid,Corporate
+CUST00182,Asia,Japan,Osaka,Wholesale
+CUST00183,North America,Mexico,Guadalajara,Retail
+CUST00184,South America,Brazil,Rio de Janeiro,E-commerce
+CUST00185,Asia,India,Chennai,Retail
+CUST00186,North America,Canada,Toronto,Wholesale
+CUST00187,Asia,Singapore,Singapore,Retail
+CUST00188,Europe,Italy,Rome,Corporate
+CUST00189,North America,Mexico,Mexico City,Retail
+CUST00190,Europe,Netherlands,Amsterdam,Wholesale
+CUST00191,Asia,South Korea,Seoul,Retail
+CUST00192,North America,Mexico,Guadalajara,E-commerce
+CUST00193,Europe,Netherlands,Rotterdam,Corporate
+CUST00194,Asia,South Korea,Seoul,Retail
+CUST00195,Europe,France,Paris,Retail
+CUST00196,Asia,India,Bangalore,Retail
+CUST00197,Asia,Singapore,Singapore,Retail
+CUST00198,Asia,Singapore,Singapore,Retail
+CUST00199,Asia,Japan,Tokyo,E-commerce
+CUST00200,Europe,Netherlands,Rotterdam,Corporate
+CUST00201,North America,USA,Houston,Corporate
+CUST00202,Asia,China,Beijing,Corporate
+CUST00203,Europe,France,Lyon,Wholesale
+CUST00204,Europe,France,Lyon,Retail
+CUST00205,Asia,South Korea,Seoul,Retail
+CUST00206,North America,Mexico,Mexico City,Corporate
+CUST00207,Europe,Germany,Berlin,E-commerce
+CUST00208,North America,Mexico,Guadalajara,Retail
+CUST00209,Asia,Singapore,Singapore,Retail
+CUST00210,Asia,Singapore,Singapore,Retail
+CUST00211,Asia,Singapore,Singapore,Retail
+CUST00212,Asia,India,Bangalore,E-commerce
+CUST00213,Asia,China,Beijing,Corporate
+CUST00214,Europe,Italy,Milan,E-commerce
+CUST00215,Asia,Japan,Osaka,Retail
+CUST00216,Middle East,Saudi Arabia,Riyadh,E-commerce
+CUST00217,North America,Canada,Montreal,Retail
+CUST00218,Asia,South Korea,Seoul,Corporate
+CUST00219,South America,Argentina,Buenos Aires,Corporate
+CUST00220,Europe,France,Lyon,Retail
+CUST00221,North America,Canada,Toronto,Retail
+CUST00222,Asia,India,Hyderabad,Retail
+CUST00223,Europe,UK,Manchester,Retail
+CUST00224,Asia,India,Hyderabad,Corporate
+CUST00225,Asia,South Korea,Seoul,Corporate
+CUST00226,Asia,China,Shanghai,Corporate
+CUST00227,Europe,Italy,Rome,Retail
+CUST00228,Asia,Japan,Osaka,Retail
+CUST00229,Asia,India,Delhi,E-commerce
+CUST00230,Asia,Japan,Tokyo,Wholesale
+CUST00231,Asia,Japan,Tokyo,Corporate
+CUST00232,North America,Canada,Toronto,Corporate
+CUST00233,Europe,Italy,Milan,Retail
+CUST00234,Asia,Japan,Tokyo,E-commerce
+CUST00235,North America,USA,Dallas,E-commerce
+CUST00236,Asia,Japan,Tokyo,Wholesale
+CUST00237,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00238,Asia,India,Pune,Wholesale
+CUST00239,Europe,France,Lyon,Wholesale
+CUST00240,Asia,Singapore,Singapore,Wholesale
+CUST00241,Asia,Japan,Tokyo,Retail
+CUST00242,Asia,India,Bangalore,Wholesale
+CUST00243,North America,Canada,Toronto,Corporate
+CUST00244,Europe,Germany,Munich,E-commerce
+CUST00245,Europe,Netherlands,Amsterdam,Wholesale
+CUST00246,Europe,Spain,Madrid,Retail
+CUST00247,Europe,UK,London,Retail
+CUST00248,North America,Mexico,Guadalajara,Corporate
+CUST00249,Asia,India,Delhi,E-commerce
+CUST00250,Europe,Germany,Hamburg,Corporate
+CUST00251,South America,Argentina,Buenos Aires,Corporate
+CUST00252,Asia,South Korea,Seoul,E-commerce
+CUST00253,North America,Canada,Vancouver,Retail
+CUST00254,Asia,Japan,Osaka,Wholesale
+CUST00255,North America,Canada,Montreal,Corporate
+CUST00256,South America,Brazil,São Paulo,Wholesale
+CUST00257,Asia,China,Shenzhen,Retail
+CUST00258,Asia,China,Beijing,Wholesale
+CUST00259,Asia,India,Delhi,Corporate
+CUST00260,North America,USA,Los Angeles,E-commerce
+CUST00261,Asia,South Korea,Seoul,Wholesale
+CUST00262,Asia,China,Shanghai,Wholesale
+CUST00263,Asia,Singapore,Singapore,Retail
+CUST00264,North America,Mexico,Guadalajara,Retail
+CUST00265,Asia,Japan,Tokyo,Wholesale
+CUST00266,North America,USA,Chicago,Corporate
+CUST00267,North America,Mexico,Guadalajara,Corporate
+CUST00268,Asia,Singapore,Singapore,Retail
+CUST00269,Asia,China,Beijing,E-commerce
+CUST00270,Europe,Italy,Milan,Retail
+CUST00271,Europe,Netherlands,Amsterdam,E-commerce
+CUST00272,Asia,South Korea,Seoul,Corporate
+CUST00273,Europe,Italy,Milan,Corporate
+CUST00274,Asia,Japan,Tokyo,E-commerce
+CUST00275,Middle East,UAE,Dubai,Corporate
+CUST00276,North America,USA,Seattle,E-commerce
+CUST00277,North America,Canada,Montreal,Retail
+CUST00278,Europe,Italy,Rome,Corporate
+CUST00279,Europe,Netherlands,Amsterdam,Wholesale
+CUST00280,Middle East,Saudi Arabia,Riyadh,E-commerce
+CUST00281,Europe,Italy,Rome,Retail
+CUST00282,Middle East,Saudi Arabia,Riyadh,Wholesale
+CUST00283,Asia,Singapore,Singapore,E-commerce
+CUST00284,South America,Brazil,Rio de Janeiro,Corporate
+CUST00285,Europe,Italy,Rome,Retail
+CUST00286,Asia,South Korea,Seoul,Retail
+CUST00287,North America,USA,New York,Retail
+CUST00288,Asia,China,Shenzhen,Retail
+CUST00289,Europe,Spain,Madrid,E-commerce
+CUST00290,Asia,Japan,Tokyo,Retail
+CUST00291,North America,USA,Houston,Corporate
+CUST00292,Asia,South Korea,Seoul,Corporate
+CUST00293,Asia,Japan,Tokyo,Retail
+CUST00294,Europe,Spain,Barcelona,Retail
+CUST00295,South America,Argentina,Buenos Aires,Retail
+CUST00296,Europe,Netherlands,Rotterdam,Corporate
+CUST00297,Asia,Singapore,Singapore,Corporate
+CUST00298,Asia,Japan,Tokyo,E-commerce
+CUST00299,Asia,China,Beijing,Retail
+CUST00300,Asia,Singapore,Singapore,E-commerce
+CUST00301,Europe,France,Lyon,Corporate
+CUST00302,Asia,South Korea,Seoul,Wholesale
+CUST00303,Asia,Singapore,Singapore,E-commerce
+CUST00304,Asia,Japan,Osaka,Retail
+CUST00305,Asia,Japan,Tokyo,Corporate
+CUST00306,Europe,Netherlands,Amsterdam,Retail
+CUST00307,North America,Mexico,Guadalajara,Corporate
+CUST00308,Europe,Netherlands,Amsterdam,Retail
+CUST00309,Europe,UK,Birmingham,Corporate
+CUST00310,Asia,Japan,Osaka,Retail
+CUST00311,South America,Argentina,Buenos Aires,E-commerce
+CUST00312,Europe,UK,Manchester,Retail
+CUST00313,North America,Mexico,Mexico City,Retail
+CUST00314,Asia,Japan,Osaka,Retail
+CUST00315,North America,Mexico,Guadalajara,Corporate
+CUST00316,Asia,India,Mumbai,Retail
+CUST00317,Asia,South Korea,Seoul,Corporate
+CUST00318,Asia,China,Beijing,Retail
+CUST00319,North America,Mexico,Mexico City,Retail
+CUST00320,North America,Mexico,Guadalajara,Retail
+CUST00321,Asia,India,Delhi,Retail
+CUST00322,North America,USA,Houston,E-commerce
+CUST00323,North America,USA,Boston,Retail
+CUST00324,North America,USA,Houston,Retail
+CUST00325,Asia,Japan,Osaka,E-commerce
+CUST00326,Asia,Singapore,Singapore,Retail
+CUST00327,Asia,Singapore,Singapore,Retail
+CUST00328,Asia,Singapore,Singapore,Corporate
+CUST00329,Europe,Netherlands,Amsterdam,E-commerce
+CUST00330,North America,Mexico,Mexico City,Retail
+CUST00331,Asia,India,Bangalore,Retail
+CUST00332,Europe,Netherlands,Rotterdam,Retail
+CUST00333,North America,Mexico,Guadalajara,Retail
+CUST00334,Europe,Germany,Munich,Retail
+CUST00335,Asia,Japan,Osaka,E-commerce
+CUST00336,North America,USA,Houston,Retail
+CUST00337,South America,Argentina,Buenos Aires,Corporate
+CUST00338,South America,Argentina,Buenos Aires,Wholesale
+CUST00339,Europe,Netherlands,Rotterdam,Retail
+CUST00340,Asia,China,Shenzhen,Corporate
+CUST00341,North America,USA,Dallas,Retail
+CUST00342,Asia,Singapore,Singapore,Wholesale
+CUST00343,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST00344,Asia,Japan,Osaka,Retail
+CUST00345,Asia,Singapore,Singapore,E-commerce
+CUST00346,Asia,China,Beijing,Corporate
+CUST00347,Asia,India,Delhi,Corporate
+CUST00348,North America,Mexico,Guadalajara,Wholesale
+CUST00349,Asia,India,Chennai,Retail
+CUST00350,Asia,India,Pune,E-commerce
+CUST00351,South America,Argentina,Buenos Aires,Corporate
+CUST00352,North America,Mexico,Mexico City,Corporate
+CUST00353,Asia,Singapore,Singapore,E-commerce
+CUST00354,Europe,Germany,Munich,Retail
+CUST00355,Europe,France,Lyon,Retail
+CUST00356,Asia,South Korea,Seoul,Wholesale
+CUST00357,Asia,India,Bangalore,Corporate
+CUST00358,Asia,South Korea,Seoul,Retail
+CUST00359,Asia,Japan,Osaka,Retail
+CUST00360,North America,Mexico,Mexico City,Retail
+CUST00361,Europe,Spain,Madrid,Corporate
+CUST00362,North America,USA,Boston,E-commerce
+CUST00363,North America,Mexico,Guadalajara,Retail
+CUST00364,Asia,China,Shenzhen,Retail
+CUST00365,Europe,Germany,Munich,Retail
+CUST00366,Europe,Germany,Hamburg,Corporate
+CUST00367,Asia,India,Chennai,Wholesale
+CUST00368,Asia,China,Shenzhen,Retail
+CUST00369,North America,Canada,Toronto,Corporate
+CUST00370,North America,USA,Chicago,Retail
+CUST00371,Asia,India,Bangalore,Wholesale
+CUST00372,North America,Canada,Vancouver,Corporate
+CUST00373,Asia,Singapore,Singapore,Corporate
+CUST00374,Europe,UK,Birmingham,Retail
+CUST00375,South America,Argentina,Buenos Aires,Retail
+CUST00376,Middle East,UAE,Dubai,Retail
+CUST00377,Asia,India,Pune,Corporate
+CUST00378,South America,Argentina,Buenos Aires,Wholesale
+CUST00379,North America,Canada,Montreal,Corporate
+CUST00380,North America,USA,Los Angeles,Wholesale
+CUST00381,Asia,Singapore,Singapore,Corporate
+CUST00382,Asia,Singapore,Singapore,E-commerce
+CUST00383,Middle East,UAE,Abu Dhabi,Retail
+CUST00384,North America,Canada,Montreal,E-commerce
+CUST00385,Asia,South Korea,Seoul,Corporate
+CUST00386,South America,Brazil,Rio de Janeiro,Retail
+CUST00387,North America,Canada,Montreal,Retail
+CUST00388,South America,Argentina,Buenos Aires,E-commerce
+CUST00389,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST00390,South America,Argentina,Buenos Aires,Wholesale
+CUST00391,Asia,Singapore,Singapore,Wholesale
+CUST00392,Asia,India,Delhi,Corporate
+CUST00393,Asia,Singapore,Singapore,Retail
+CUST00394,Asia,South Korea,Seoul,Corporate
+CUST00395,Asia,Japan,Tokyo,Wholesale
+CUST00396,Asia,Singapore,Singapore,Retail
+CUST00397,Europe,Germany,Hamburg,Wholesale
+CUST00398,Asia,India,Pune,Corporate
+CUST00399,South America,Argentina,Buenos Aires,Corporate
+CUST00400,Asia,China,Shenzhen,Retail
+CUST00401,South America,Argentina,Buenos Aires,Retail
+CUST00402,South America,Brazil,Rio de Janeiro,Corporate
+CUST00403,Middle East,UAE,Dubai,Wholesale
+CUST00404,Middle East,UAE,Abu Dhabi,Retail
+CUST00405,North America,Canada,Toronto,Retail
+CUST00406,Europe,Spain,Barcelona,Corporate
+CUST00407,South America,Brazil,São Paulo,E-commerce
+CUST00408,North America,Canada,Vancouver,Retail
+CUST00409,Europe,Italy,Rome,Wholesale
+CUST00410,Asia,China,Shanghai,Retail
+CUST00411,Europe,UK,Birmingham,Retail
+CUST00412,Asia,Japan,Osaka,Retail
+CUST00413,Asia,China,Beijing,Retail
+CUST00414,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00415,Europe,Italy,Rome,Corporate
+CUST00416,Asia,India,Chennai,E-commerce
+CUST00417,North America,USA,Los Angeles,Retail
+CUST00418,Europe,UK,Birmingham,E-commerce
+CUST00419,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST00420,North America,USA,Seattle,Retail
+CUST00421,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00422,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST00423,North America,Canada,Vancouver,Corporate
+CUST00424,Asia,Japan,Osaka,Retail
+CUST00425,Asia,Japan,Tokyo,Retail
+CUST00426,North America,Mexico,Mexico City,Retail
+CUST00427,Asia,Singapore,Singapore,E-commerce
+CUST00428,South America,Argentina,Buenos Aires,E-commerce
+CUST00429,Middle East,UAE,Abu Dhabi,Retail
+CUST00430,Europe,Italy,Rome,Wholesale
+CUST00431,North America,Mexico,Guadalajara,Retail
+CUST00432,North America,USA,Los Angeles,Retail
+CUST00433,Asia,India,Mumbai,Corporate
+CUST00434,Europe,France,Lyon,Corporate
+CUST00435,Asia,India,Mumbai,E-commerce
+CUST00436,Asia,China,Shenzhen,Retail
+CUST00437,South America,Brazil,Rio de Janeiro,E-commerce
+CUST00438,South America,Argentina,Buenos Aires,Wholesale
+CUST00439,North America,Mexico,Guadalajara,Corporate
+CUST00440,Asia,South Korea,Seoul,Retail
+CUST00441,Europe,Netherlands,Amsterdam,Retail
+CUST00442,North America,Canada,Montreal,Corporate
+CUST00443,Asia,Singapore,Singapore,Retail
+CUST00444,North America,USA,Boston,Retail
+CUST00445,South America,Argentina,Buenos Aires,Corporate
+CUST00446,Europe,Netherlands,Rotterdam,Corporate
+CUST00447,North America,USA,Seattle,Retail
+CUST00448,North America,Canada,Toronto,Corporate
+CUST00449,Asia,Japan,Osaka,E-commerce
+CUST00450,North America,USA,Houston,Corporate
+CUST00451,South America,Argentina,Buenos Aires,E-commerce
+CUST00452,North America,USA,Seattle,Wholesale
+CUST00453,North America,Canada,Toronto,Corporate
+CUST00454,North America,Mexico,Mexico City,Wholesale
+CUST00455,Asia,South Korea,Seoul,E-commerce
+CUST00456,South America,Brazil,Rio de Janeiro,Retail
+CUST00457,North America,USA,Los Angeles,Retail
+CUST00458,Asia,South Korea,Seoul,Wholesale
+CUST00459,Asia,India,Pune,Wholesale
+CUST00460,North America,USA,Dallas,Corporate
+CUST00461,Asia,China,Shanghai,Retail
+CUST00462,North America,Canada,Toronto,E-commerce
+CUST00463,North America,Mexico,Mexico City,Retail
+CUST00464,North America,Canada,Toronto,Corporate
+CUST00465,North America,USA,Dallas,Retail
+CUST00466,North America,Canada,Toronto,Corporate
+CUST00467,Middle East,UAE,Dubai,Retail
+CUST00468,North America,USA,New York,E-commerce
+CUST00469,Asia,Japan,Tokyo,E-commerce
+CUST00470,North America,Mexico,Guadalajara,Retail
+CUST00471,Asia,India,Delhi,Wholesale
+CUST00472,Asia,Japan,Tokyo,Corporate
+CUST00473,Asia,China,Shenzhen,Corporate
+CUST00474,Asia,Singapore,Singapore,E-commerce
+CUST00475,Middle East,UAE,Abu Dhabi,E-commerce
+CUST00476,North America,Canada,Vancouver,Retail
+CUST00477,North America,Mexico,Mexico City,Retail
+CUST00478,Asia,Singapore,Singapore,Retail
+CUST00479,Europe,Spain,Madrid,Wholesale
+CUST00480,North America,Mexico,Guadalajara,Retail
+CUST00481,Asia,Singapore,Singapore,E-commerce
+CUST00482,Europe,Germany,Munich,Corporate
+CUST00483,Asia,Singapore,Singapore,Wholesale
+CUST00484,North America,Mexico,Mexico City,Retail
+CUST00485,Asia,Singapore,Singapore,Corporate
+CUST00486,North America,USA,New York,Retail
+CUST00487,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00488,Europe,Germany,Berlin,E-commerce
+CUST00489,Europe,France,Lyon,Corporate
+CUST00490,Europe,Netherlands,Rotterdam,Retail
+CUST00491,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00492,South America,Brazil,São Paulo,Retail
+CUST00493,Asia,South Korea,Seoul,Retail
+CUST00494,North America,Canada,Vancouver,Retail
+CUST00495,South America,Brazil,Rio de Janeiro,Corporate
+CUST00496,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00497,South America,Argentina,Buenos Aires,Wholesale
+CUST00498,North America,Mexico,Mexico City,Wholesale
+CUST00499,North America,Canada,Vancouver,Corporate
+CUST00500,Asia,Japan,Osaka,Retail
+CUST00501,South America,Argentina,Buenos Aires,Corporate
+CUST00502,North America,Mexico,Guadalajara,Corporate
+CUST00503,Asia,India,Mumbai,Retail
+CUST00504,North America,USA,New York,Retail
+CUST00505,Asia,Singapore,Singapore,Corporate
+CUST00506,Asia,Japan,Tokyo,Corporate
+CUST00507,Asia,South Korea,Seoul,Wholesale
+CUST00508,Asia,South Korea,Seoul,Corporate
+CUST00509,Asia,India,Chennai,Retail
+CUST00510,Europe,France,Lyon,Corporate
+CUST00511,North America,Mexico,Mexico City,Retail
+CUST00512,North America,Canada,Montreal,E-commerce
+CUST00513,North America,Canada,Vancouver,Retail
+CUST00514,Europe,Germany,Hamburg,Retail
+CUST00515,Asia,South Korea,Seoul,E-commerce
+CUST00516,Asia,China,Shenzhen,Corporate
+CUST00517,North America,Canada,Toronto,Wholesale
+CUST00518,Europe,Germany,Munich,Retail
+CUST00519,Asia,South Korea,Seoul,Corporate
+CUST00520,Asia,India,Bangalore,Retail
+CUST00521,Asia,South Korea,Seoul,Retail
+CUST00522,Europe,Netherlands,Amsterdam,Retail
+CUST00523,Europe,Spain,Barcelona,Corporate
+CUST00524,North America,USA,Los Angeles,Retail
+CUST00525,Asia,Japan,Osaka,Retail
+CUST00526,North America,Canada,Vancouver,Wholesale
+CUST00527,Asia,India,Delhi,E-commerce
+CUST00528,Asia,China,Shenzhen,Corporate
+CUST00529,North America,Mexico,Guadalajara,E-commerce
+CUST00530,North America,USA,Los Angeles,Wholesale
+CUST00531,Asia,India,Mumbai,Wholesale
+CUST00532,Asia,South Korea,Seoul,E-commerce
+CUST00533,Europe,Netherlands,Rotterdam,Wholesale
+CUST00534,Europe,Netherlands,Rotterdam,Corporate
+CUST00535,Europe,UK,Manchester,Wholesale
+CUST00536,Asia,Japan,Osaka,Retail
+CUST00537,Asia,South Korea,Seoul,Retail
+CUST00538,South America,Brazil,São Paulo,Retail
+CUST00539,Middle East,UAE,Dubai,Retail
+CUST00540,Asia,India,Bangalore,Wholesale
+CUST00541,North America,Canada,Montreal,Corporate
+CUST00542,Europe,Netherlands,Rotterdam,Wholesale
+CUST00543,Asia,South Korea,Seoul,E-commerce
+CUST00544,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST00545,Asia,China,Shenzhen,Corporate
+CUST00546,Asia,India,Bangalore,Retail
+CUST00547,Asia,Singapore,Singapore,Corporate
+CUST00548,South America,Argentina,Buenos Aires,Wholesale
+CUST00549,North America,Mexico,Guadalajara,Retail
+CUST00550,Asia,India,Delhi,Retail
+CUST00551,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00552,South America,Brazil,São Paulo,Corporate
+CUST00553,Europe,France,Paris,Wholesale
+CUST00554,Europe,UK,Manchester,E-commerce
+CUST00555,South America,Argentina,Buenos Aires,Retail
+CUST00556,Asia,India,Mumbai,Corporate
+CUST00557,South America,Argentina,Buenos Aires,Retail
+CUST00558,North America,USA,Los Angeles,Corporate
+CUST00559,North America,Canada,Montreal,Retail
+CUST00560,North America,Mexico,Mexico City,E-commerce
+CUST00561,Asia,South Korea,Seoul,Retail
+CUST00562,Middle East,UAE,Abu Dhabi,Retail
+CUST00563,South America,Brazil,Rio de Janeiro,Corporate
+CUST00564,Asia,India,Chennai,E-commerce
+CUST00565,Europe,Germany,Munich,Corporate
+CUST00566,Europe,Spain,Barcelona,Corporate
+CUST00567,Asia,South Korea,Seoul,Retail
+CUST00568,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00569,North America,USA,Houston,Retail
+CUST00570,North America,USA,Chicago,Retail
+CUST00571,Middle East,UAE,Abu Dhabi,Corporate
+CUST00572,Asia,Japan,Tokyo,Retail
+CUST00573,Asia,Singapore,Singapore,Corporate
+CUST00574,Asia,China,Beijing,Wholesale
+CUST00575,Europe,Spain,Barcelona,Retail
+CUST00576,North America,Mexico,Mexico City,Wholesale
+CUST00577,Asia,Singapore,Singapore,Retail
+CUST00578,Asia,Japan,Tokyo,Wholesale
+CUST00579,North America,Canada,Toronto,Corporate
+CUST00580,North America,USA,Dallas,Wholesale
+CUST00581,Europe,Italy,Milan,E-commerce
+CUST00582,Asia,South Korea,Seoul,Retail
+CUST00583,Asia,Japan,Osaka,Retail
+CUST00584,Europe,Italy,Milan,E-commerce
+CUST00585,Asia,China,Shanghai,Retail
+CUST00586,Europe,UK,Manchester,E-commerce
+CUST00587,Asia,China,Shanghai,Corporate
+CUST00588,Asia,South Korea,Seoul,Retail
+CUST00589,Middle East,UAE,Dubai,E-commerce
+CUST00590,Asia,Singapore,Singapore,E-commerce
+CUST00591,North America,Mexico,Guadalajara,E-commerce
+CUST00592,Europe,Italy,Rome,Corporate
+CUST00593,Europe,Italy,Rome,Corporate
+CUST00594,Asia,China,Beijing,Retail
+CUST00595,Asia,India,Chennai,Wholesale
+CUST00596,Asia,Singapore,Singapore,Corporate
+CUST00597,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00598,North America,Canada,Montreal,Retail
+CUST00599,South America,Brazil,Rio de Janeiro,Retail
+CUST00600,North America,Canada,Vancouver,Wholesale
+CUST00601,Middle East,UAE,Dubai,Corporate
+CUST00602,Europe,France,Lyon,Corporate
+CUST00603,South America,Brazil,São Paulo,Corporate
+CUST00604,Asia,South Korea,Seoul,E-commerce
+CUST00605,North America,Canada,Montreal,Corporate
+CUST00606,Asia,South Korea,Seoul,Corporate
+CUST00607,Europe,Netherlands,Amsterdam,Corporate
+CUST00608,Asia,Japan,Osaka,Corporate
+CUST00609,Middle East,UAE,Dubai,Retail
+CUST00610,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00611,South America,Argentina,Buenos Aires,Wholesale
+CUST00612,Europe,Spain,Madrid,Wholesale
+CUST00613,South America,Brazil,São Paulo,Retail
+CUST00614,Asia,Singapore,Singapore,Corporate
+CUST00615,North America,Mexico,Mexico City,Wholesale
+CUST00616,North America,Canada,Vancouver,Retail
+CUST00617,North America,Canada,Vancouver,Retail
+CUST00618,Europe,Netherlands,Rotterdam,Retail
+CUST00619,Asia,South Korea,Seoul,Retail
+CUST00620,Europe,Italy,Rome,Corporate
+CUST00621,Europe,Germany,Munich,Retail
+CUST00622,Asia,India,Pune,Retail
+CUST00623,Asia,Singapore,Singapore,Retail
+CUST00624,North America,Canada,Montreal,Corporate
+CUST00625,North America,Mexico,Mexico City,Corporate
+CUST00626,Europe,France,Paris,E-commerce
+CUST00627,Europe,Spain,Madrid,Corporate
+CUST00628,Asia,Japan,Osaka,Retail
+CUST00629,Europe,Italy,Rome,Retail
+CUST00630,Europe,UK,Birmingham,Corporate
+CUST00631,North America,Mexico,Mexico City,Wholesale
+CUST00632,North America,Canada,Montreal,Wholesale
+CUST00633,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00634,Asia,China,Shenzhen,Retail
+CUST00635,North America,Mexico,Mexico City,E-commerce
+CUST00636,Asia,Singapore,Singapore,E-commerce
+CUST00637,Asia,India,Bangalore,E-commerce
+CUST00638,Europe,France,Paris,Retail
+CUST00639,Europe,UK,Manchester,Retail
+CUST00640,Asia,Singapore,Singapore,Retail
+CUST00641,North America,USA,Los Angeles,Corporate
+CUST00642,Asia,China,Shanghai,Corporate
+CUST00643,North America,Canada,Toronto,Retail
+CUST00644,Europe,Spain,Madrid,Retail
+CUST00645,Asia,Japan,Tokyo,Corporate
+CUST00646,Asia,South Korea,Seoul,Corporate
+CUST00647,North America,USA,Los Angeles,Retail
+CUST00648,Europe,UK,Birmingham,Retail
+CUST00649,Middle East,UAE,Abu Dhabi,Corporate
+CUST00650,North America,USA,Houston,Corporate
+CUST00651,Asia,Japan,Tokyo,Corporate
+CUST00652,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST00653,North America,Mexico,Guadalajara,E-commerce
+CUST00654,Asia,China,Shenzhen,Retail
+CUST00655,North America,USA,Chicago,Retail
+CUST00656,North America,Canada,Toronto,E-commerce
+CUST00657,Europe,France,Lyon,Retail
+CUST00658,North America,Canada,Vancouver,Retail
+CUST00659,North America,Canada,Montreal,Retail
+CUST00660,North America,Mexico,Guadalajara,Retail
+CUST00661,North America,USA,Seattle,Corporate
+CUST00662,Europe,UK,Birmingham,Retail
+CUST00663,North America,USA,Seattle,E-commerce
+CUST00664,Asia,Japan,Tokyo,Retail
+CUST00665,Asia,Singapore,Singapore,Corporate
+CUST00666,North America,Mexico,Mexico City,Corporate
+CUST00667,Asia,South Korea,Seoul,Retail
+CUST00668,Europe,France,Paris,Corporate
+CUST00669,Middle East,UAE,Abu Dhabi,Retail
+CUST00670,North America,Canada,Montreal,Retail
+CUST00671,Europe,UK,Manchester,Wholesale
+CUST00672,North America,USA,Los Angeles,E-commerce
+CUST00673,Asia,Singapore,Singapore,Retail
+CUST00674,North America,USA,Houston,Corporate
+CUST00675,Asia,India,Chennai,Retail
+CUST00676,Asia,South Korea,Seoul,E-commerce
+CUST00677,Asia,China,Beijing,Retail
+CUST00678,Asia,India,Bangalore,Retail
+CUST00679,Asia,China,Shanghai,Corporate
+CUST00680,Asia,Japan,Tokyo,Wholesale
+CUST00681,Asia,Japan,Tokyo,Corporate
+CUST00682,South America,Brazil,São Paulo,Corporate
+CUST00683,Europe,France,Lyon,Retail
+CUST00684,Asia,China,Shenzhen,Corporate
+CUST00685,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST00686,Europe,Spain,Madrid,Wholesale
+CUST00687,Europe,Germany,Berlin,Retail
+CUST00688,Europe,France,Paris,E-commerce
+CUST00689,Asia,China,Shenzhen,Corporate
+CUST00690,Asia,South Korea,Seoul,Corporate
+CUST00691,Asia,India,Bangalore,Corporate
+CUST00692,North America,USA,Chicago,Retail
+CUST00693,North America,USA,New York,Wholesale
+CUST00694,South America,Brazil,Rio de Janeiro,Retail
+CUST00695,Europe,Italy,Rome,Retail
+CUST00696,Middle East,UAE,Dubai,E-commerce
+CUST00697,Europe,Netherlands,Amsterdam,Wholesale
+CUST00698,Europe,Italy,Milan,Corporate
+CUST00699,Asia,China,Beijing,Wholesale
+CUST00700,Asia,Singapore,Singapore,Wholesale
+CUST00701,North America,Mexico,Guadalajara,Wholesale
+CUST00702,Asia,China,Shenzhen,Retail
+CUST00703,Asia,Singapore,Singapore,Retail
+CUST00704,Asia,India,Pune,E-commerce
+CUST00705,Europe,France,Paris,Retail
+CUST00706,Europe,Spain,Madrid,Retail
+CUST00707,North America,Canada,Vancouver,Corporate
+CUST00708,South America,Brazil,Rio de Janeiro,Corporate
+CUST00709,Middle East,Saudi Arabia,Riyadh,E-commerce
+CUST00710,Asia,India,Bangalore,E-commerce
+CUST00711,Asia,India,Bangalore,Wholesale
+CUST00712,Europe,UK,Birmingham,E-commerce
+CUST00713,South America,Brazil,Rio de Janeiro,Wholesale
+CUST00714,North America,USA,New York,Retail
+CUST00715,Asia,Japan,Osaka,Retail
+CUST00716,Asia,China,Shenzhen,Corporate
+CUST00717,Asia,Singapore,Singapore,E-commerce
+CUST00718,North America,Mexico,Mexico City,Wholesale
+CUST00719,Asia,China,Shanghai,E-commerce
+CUST00720,South America,Argentina,Buenos Aires,Corporate
+CUST00721,North America,Canada,Toronto,Wholesale
+CUST00722,Asia,India,Delhi,Corporate
+CUST00723,Europe,Germany,Munich,Retail
+CUST00724,Europe,France,Lyon,Retail
+CUST00725,Asia,South Korea,Seoul,Retail
+CUST00726,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST00727,Middle East,UAE,Abu Dhabi,Retail
+CUST00728,Asia,Japan,Tokyo,Corporate
+CUST00729,Europe,Italy,Rome,Retail
+CUST00730,North America,Canada,Toronto,Retail
+CUST00731,North America,Canada,Vancouver,Corporate
+CUST00732,Asia,Singapore,Singapore,Retail
+CUST00733,North America,Canada,Vancouver,Corporate
+CUST00734,Asia,China,Beijing,E-commerce
+CUST00735,Asia,Singapore,Singapore,Corporate
+CUST00736,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00737,Asia,Singapore,Singapore,Retail
+CUST00738,Asia,Singapore,Singapore,Retail
+CUST00739,North America,Mexico,Guadalajara,Retail
+CUST00740,Europe,France,Paris,E-commerce
+CUST00741,North America,USA,Chicago,Corporate
+CUST00742,Asia,Japan,Osaka,Corporate
+CUST00743,Europe,Netherlands,Rotterdam,Retail
+CUST00744,Asia,China,Shenzhen,E-commerce
+CUST00745,Europe,Netherlands,Rotterdam,Retail
+CUST00746,Europe,Netherlands,Amsterdam,Retail
+CUST00747,North America,Mexico,Guadalajara,Wholesale
+CUST00748,North America,Mexico,Guadalajara,Retail
+CUST00749,Europe,France,Paris,Corporate
+CUST00750,Asia,India,Hyderabad,Retail
+CUST00751,North America,Mexico,Guadalajara,Retail
+CUST00752,Europe,France,Paris,Retail
+CUST00753,Asia,India,Delhi,Retail
+CUST00754,Middle East,Saudi Arabia,Riyadh,Wholesale
+CUST00755,Middle East,UAE,Dubai,Corporate
+CUST00756,Asia,China,Shenzhen,Corporate
+CUST00757,Europe,France,Lyon,Wholesale
+CUST00758,Asia,Singapore,Singapore,Corporate
+CUST00759,Asia,South Korea,Seoul,Retail
+CUST00760,North America,Mexico,Guadalajara,Corporate
+CUST00761,Europe,France,Lyon,Retail
+CUST00762,Europe,Netherlands,Amsterdam,Wholesale
+CUST00763,South America,Brazil,Rio de Janeiro,E-commerce
+CUST00764,North America,Canada,Vancouver,Retail
+CUST00765,North America,Mexico,Guadalajara,Retail
+CUST00766,Asia,China,Shanghai,Wholesale
+CUST00767,Asia,India,Hyderabad,E-commerce
+CUST00768,Europe,UK,Manchester,Corporate
+CUST00769,North America,Mexico,Guadalajara,E-commerce
+CUST00770,North America,Mexico,Mexico City,Corporate
+CUST00771,Asia,Japan,Osaka,Corporate
+CUST00772,Asia,Singapore,Singapore,Wholesale
+CUST00773,Europe,Spain,Barcelona,Corporate
+CUST00774,Asia,Singapore,Singapore,Retail
+CUST00775,North America,USA,Los Angeles,Retail
+CUST00776,Asia,India,Chennai,Retail
+CUST00777,Middle East,UAE,Abu Dhabi,Wholesale
+CUST00778,Europe,Germany,Hamburg,Retail
+CUST00779,Asia,Japan,Osaka,Wholesale
+CUST00780,North America,Mexico,Mexico City,Retail
+CUST00781,Asia,South Korea,Seoul,Retail
+CUST00782,North America,Canada,Toronto,Wholesale
+CUST00783,Asia,China,Beijing,Retail
+CUST00784,Asia,South Korea,Seoul,E-commerce
+CUST00785,Asia,India,Delhi,Wholesale
+CUST00786,North America,USA,Los Angeles,Retail
+CUST00787,Asia,Singapore,Singapore,Retail
+CUST00788,North America,Canada,Montreal,Wholesale
+CUST00789,North America,Mexico,Guadalajara,Corporate
+CUST00790,Asia,Singapore,Singapore,E-commerce
+CUST00791,North America,Mexico,Mexico City,Retail
+CUST00792,Middle East,UAE,Abu Dhabi,Corporate
+CUST00793,Europe,Netherlands,Rotterdam,Wholesale
+CUST00794,North America,Mexico,Guadalajara,Corporate
+CUST00795,Asia,Singapore,Singapore,Retail
+CUST00796,South America,Brazil,Rio de Janeiro,Retail
+CUST00797,Europe,Italy,Milan,Retail
+CUST00798,Europe,Netherlands,Rotterdam,Corporate
+CUST00799,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00800,Asia,South Korea,Seoul,Retail
+CUST00801,South America,Brazil,Rio de Janeiro,Corporate
+CUST00802,Asia,South Korea,Seoul,Wholesale
+CUST00803,South America,Brazil,São Paulo,Wholesale
+CUST00804,South America,Argentina,Buenos Aires,Retail
+CUST00805,North America,USA,Chicago,Corporate
+CUST00806,North America,Mexico,Mexico City,Wholesale
+CUST00807,North America,Canada,Montreal,Corporate
+CUST00808,Asia,Japan,Tokyo,Corporate
+CUST00809,Middle East,Saudi Arabia,Riyadh,E-commerce
+CUST00810,Asia,South Korea,Seoul,Retail
+CUST00811,Asia,China,Shenzhen,Wholesale
+CUST00812,North America,Canada,Montreal,Retail
+CUST00813,Europe,Spain,Madrid,Wholesale
+CUST00814,North America,Mexico,Mexico City,Corporate
+CUST00815,Europe,Spain,Madrid,Corporate
+CUST00816,Asia,China,Shenzhen,Corporate
+CUST00817,North America,Mexico,Guadalajara,E-commerce
+CUST00818,North America,Mexico,Mexico City,Wholesale
+CUST00819,Asia,India,Mumbai,Corporate
+CUST00820,Asia,India,Hyderabad,Retail
+CUST00821,North America,Mexico,Guadalajara,E-commerce
+CUST00822,Asia,China,Shenzhen,Retail
+CUST00823,North America,Canada,Montreal,Retail
+CUST00824,Europe,Italy,Milan,Wholesale
+CUST00825,North America,Canada,Montreal,Retail
+CUST00826,Europe,Spain,Barcelona,Wholesale
+CUST00827,Europe,Italy,Rome,Retail
+CUST00828,North America,Canada,Toronto,Retail
+CUST00829,North America,Mexico,Guadalajara,Retail
+CUST00830,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00831,Asia,India,Hyderabad,Retail
+CUST00832,Asia,India,Delhi,E-commerce
+CUST00833,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00834,Europe,Netherlands,Rotterdam,Wholesale
+CUST00835,South America,Brazil,Rio de Janeiro,Corporate
+CUST00836,Europe,Spain,Madrid,Retail
+CUST00837,North America,Canada,Montreal,Retail
+CUST00838,North America,Canada,Montreal,Retail
+CUST00839,North America,Canada,Vancouver,Retail
+CUST00840,Europe,UK,Manchester,Corporate
+CUST00841,North America,Mexico,Mexico City,Retail
+CUST00842,Europe,France,Paris,Corporate
+CUST00843,Europe,Netherlands,Amsterdam,Corporate
+CUST00844,North America,Canada,Vancouver,Wholesale
+CUST00845,Asia,China,Shanghai,Wholesale
+CUST00846,Europe,Germany,Berlin,Retail
+CUST00847,Asia,Japan,Osaka,Retail
+CUST00848,North America,Mexico,Guadalajara,Wholesale
+CUST00849,North America,USA,Seattle,Corporate
+CUST00850,Europe,UK,Manchester,Retail
+CUST00851,Asia,South Korea,Seoul,Retail
+CUST00852,Asia,China,Shanghai,Retail
+CUST00853,Europe,Netherlands,Rotterdam,Wholesale
+CUST00854,Middle East,Saudi Arabia,Riyadh,E-commerce
+CUST00855,North America,Canada,Toronto,Retail
+CUST00856,North America,USA,Houston,Wholesale
+CUST00857,Asia,South Korea,Seoul,Retail
+CUST00858,North America,USA,Los Angeles,Retail
+CUST00859,Europe,Spain,Barcelona,Corporate
+CUST00860,Asia,India,Mumbai,Retail
+CUST00861,Asia,Japan,Osaka,Retail
+CUST00862,Asia,South Korea,Seoul,Wholesale
+CUST00863,Asia,Japan,Tokyo,Corporate
+CUST00864,Asia,India,Chennai,E-commerce
+CUST00865,Asia,China,Beijing,Retail
+CUST00866,South America,Argentina,Buenos Aires,Wholesale
+CUST00867,Asia,Japan,Tokyo,Wholesale
+CUST00868,Europe,Netherlands,Amsterdam,Corporate
+CUST00869,Asia,South Korea,Seoul,Retail
+CUST00870,North America,Canada,Montreal,Corporate
+CUST00871,Europe,France,Paris,Wholesale
+CUST00872,North America,Canada,Montreal,Retail
+CUST00873,North America,Canada,Montreal,Retail
+CUST00874,North America,Canada,Montreal,Corporate
+CUST00875,Middle East,UAE,Dubai,Retail
+CUST00876,Asia,India,Chennai,Retail
+CUST00877,Asia,Japan,Osaka,Retail
+CUST00878,South America,Argentina,Buenos Aires,Retail
+CUST00879,Asia,China,Shenzhen,Wholesale
+CUST00880,Europe,Spain,Barcelona,Wholesale
+CUST00881,Asia,South Korea,Seoul,Corporate
+CUST00882,Asia,India,Mumbai,Retail
+CUST00883,South America,Brazil,Rio de Janeiro,Retail
+CUST00884,Europe,Netherlands,Rotterdam,Retail
+CUST00885,Asia,China,Shenzhen,E-commerce
+CUST00886,Asia,South Korea,Seoul,Corporate
+CUST00887,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST00888,Middle East,UAE,Abu Dhabi,Retail
+CUST00889,Europe,Spain,Barcelona,Retail
+CUST00890,North America,Mexico,Guadalajara,E-commerce
+CUST00891,Asia,South Korea,Seoul,Corporate
+CUST00892,Asia,South Korea,Seoul,Corporate
+CUST00893,Europe,Netherlands,Amsterdam,E-commerce
+CUST00894,North America,Canada,Vancouver,Retail
+CUST00895,Asia,India,Chennai,Retail
+CUST00896,Asia,South Korea,Seoul,Retail
+CUST00897,South America,Brazil,Rio de Janeiro,Corporate
+CUST00898,Europe,France,Paris,Retail
+CUST00899,South America,Brazil,Rio de Janeiro,Wholesale
+CUST00900,Asia,China,Shenzhen,Wholesale
+CUST00901,Europe,Italy,Rome,Retail
+CUST00902,Europe,UK,Birmingham,Corporate
+CUST00903,Asia,China,Shanghai,E-commerce
+CUST00904,North America,Mexico,Mexico City,Corporate
+CUST00905,Europe,UK,London,Retail
+CUST00906,North America,Canada,Vancouver,Corporate
+CUST00907,Asia,Singapore,Singapore,Corporate
+CUST00908,North America,Canada,Montreal,Corporate
+CUST00909,Asia,China,Beijing,Wholesale
+CUST00910,Asia,South Korea,Seoul,Retail
+CUST00911,Asia,India,Hyderabad,Retail
+CUST00912,North America,USA,Dallas,Corporate
+CUST00913,Asia,China,Shenzhen,E-commerce
+CUST00914,South America,Argentina,Buenos Aires,E-commerce
+CUST00915,Asia,South Korea,Seoul,Corporate
+CUST00916,Middle East,Saudi Arabia,Riyadh,Wholesale
+CUST00917,Asia,Singapore,Singapore,Retail
+CUST00918,Europe,Spain,Barcelona,E-commerce
+CUST00919,Europe,Italy,Rome,Corporate
+CUST00920,Asia,South Korea,Seoul,Corporate
+CUST00921,North America,USA,Los Angeles,Retail
+CUST00922,North America,Canada,Montreal,E-commerce
+CUST00923,Asia,Japan,Tokyo,Corporate
+CUST00924,Asia,Japan,Osaka,Wholesale
+CUST00925,Europe,Italy,Milan,Corporate
+CUST00926,North America,Mexico,Guadalajara,Retail
+CUST00927,South America,Argentina,Buenos Aires,Corporate
+CUST00928,Asia,Japan,Osaka,Corporate
+CUST00929,North America,Canada,Toronto,Retail
+CUST00930,South America,Argentina,Buenos Aires,E-commerce
+CUST00931,Asia,Japan,Tokyo,E-commerce
+CUST00932,Asia,Japan,Tokyo,Retail
+CUST00933,Asia,Japan,Tokyo,E-commerce
+CUST00934,North America,Canada,Vancouver,Retail
+CUST00935,Europe,Italy,Rome,Corporate
+CUST00936,Asia,Singapore,Singapore,E-commerce
+CUST00937,North America,USA,Seattle,Corporate
+CUST00938,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00939,Middle East,UAE,Dubai,Corporate
+CUST00940,North America,Mexico,Mexico City,Retail
+CUST00941,South America,Brazil,São Paulo,Retail
+CUST00942,Asia,South Korea,Seoul,Retail
+CUST00943,Europe,Italy,Milan,Corporate
+CUST00944,North America,USA,New York,E-commerce
+CUST00945,Asia,Singapore,Singapore,Wholesale
+CUST00946,Asia,Singapore,Singapore,E-commerce
+CUST00947,North America,Mexico,Mexico City,Corporate
+CUST00948,North America,USA,Dallas,Retail
+CUST00949,Europe,UK,Manchester,Wholesale
+CUST00950,Europe,Italy,Rome,Retail
+CUST00951,Europe,Netherlands,Amsterdam,Wholesale
+CUST00952,Asia,Japan,Osaka,Retail
+CUST00953,North America,Canada,Montreal,Wholesale
+CUST00954,Asia,India,Mumbai,Retail
+CUST00955,Asia,South Korea,Seoul,Retail
+CUST00956,Europe,Spain,Madrid,Wholesale
+CUST00957,North America,USA,Houston,Corporate
+CUST00958,Europe,UK,London,Wholesale
+CUST00959,Europe,Netherlands,Rotterdam,E-commerce
+CUST00960,North America,USA,Boston,Retail
+CUST00961,North America,Canada,Toronto,Retail
+CUST00962,North America,USA,Chicago,Retail
+CUST00963,Asia,South Korea,Seoul,E-commerce
+CUST00964,Asia,Japan,Osaka,Wholesale
+CUST00965,Asia,Singapore,Singapore,Corporate
+CUST00966,North America,USA,Seattle,Corporate
+CUST00967,Asia,South Korea,Seoul,Retail
+CUST00968,Asia,Japan,Tokyo,Retail
+CUST00969,North America,USA,Chicago,E-commerce
+CUST00970,South America,Brazil,Rio de Janeiro,Wholesale
+CUST00971,North America,Mexico,Guadalajara,Corporate
+CUST00972,Asia,China,Shanghai,E-commerce
+CUST00973,North America,Mexico,Guadalajara,Corporate
+CUST00974,Asia,Japan,Tokyo,Retail
+CUST00975,Europe,UK,Birmingham,E-commerce
+CUST00976,Europe,Italy,Rome,Retail
+CUST00977,Middle East,Saudi Arabia,Riyadh,Retail
+CUST00978,Europe,Germany,Munich,Retail
+CUST00979,North America,Mexico,Mexico City,E-commerce
+CUST00980,Asia,China,Shanghai,E-commerce
+CUST00981,Asia,Singapore,Singapore,E-commerce
+CUST00982,North America,USA,New York,Wholesale
+CUST00983,Asia,Japan,Osaka,E-commerce
+CUST00984,North America,USA,Houston,Retail
+CUST00985,North America,Canada,Vancouver,Retail
+CUST00986,South America,Argentina,Buenos Aires,Retail
+CUST00987,North America,Canada,Montreal,Corporate
+CUST00988,Asia,Japan,Tokyo,Retail
+CUST00989,Asia,India,Hyderabad,Corporate
+CUST00990,Asia,India,Chennai,Corporate
+CUST00991,Asia,Japan,Tokyo,Retail
+CUST00992,North America,Canada,Montreal,Retail
+CUST00993,South America,Argentina,Buenos Aires,E-commerce
+CUST00994,North America,Mexico,Guadalajara,Corporate
+CUST00995,South America,Argentina,Buenos Aires,Retail
+CUST00996,Asia,China,Shanghai,Retail
+CUST00997,North America,Canada,Toronto,Retail
+CUST00998,Europe,Netherlands,Rotterdam,E-commerce
+CUST00999,South America,Argentina,Buenos Aires,Corporate
+CUST01000,Asia,South Korea,Seoul,Wholesale
+CUST01001,Europe,UK,Birmingham,Retail
+CUST01002,Asia,South Korea,Seoul,E-commerce
+CUST01003,North America,Mexico,Guadalajara,Wholesale
+CUST01004,South America,Argentina,Buenos Aires,Corporate
+CUST01005,Europe,Spain,Madrid,Retail
+CUST01006,Asia,India,Pune,Retail
+CUST01007,North America,Mexico,Mexico City,Corporate
+CUST01008,South America,Brazil,São Paulo,Retail
+CUST01009,North America,Canada,Montreal,Corporate
+CUST01010,Europe,Netherlands,Amsterdam,Wholesale
+CUST01011,Asia,China,Shenzhen,Corporate
+CUST01012,Asia,South Korea,Seoul,Retail
+CUST01013,Europe,Germany,Hamburg,Corporate
+CUST01014,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST01015,North America,Canada,Toronto,Corporate
+CUST01016,North America,Mexico,Guadalajara,Retail
+CUST01017,Asia,Singapore,Singapore,Retail
+CUST01018,Europe,Spain,Barcelona,Retail
+CUST01019,Asia,Japan,Tokyo,Retail
+CUST01020,Middle East,Saudi Arabia,Riyadh,Retail
+CUST01021,Europe,Germany,Hamburg,Retail
+CUST01022,North America,USA,Dallas,Retail
+CUST01023,Asia,India,Mumbai,Corporate
+CUST01024,Asia,Singapore,Singapore,Retail
+CUST01025,Asia,India,Pune,Retail
+CUST01026,Asia,India,Mumbai,Retail
+CUST01027,North America,Canada,Toronto,Corporate
+CUST01028,Europe,France,Lyon,Retail
+CUST01029,Middle East,UAE,Dubai,Retail
+CUST01030,Asia,Singapore,Singapore,Corporate
+CUST01031,Asia,Singapore,Singapore,Retail
+CUST01032,Europe,Netherlands,Rotterdam,E-commerce
+CUST01033,Europe,Germany,Hamburg,Wholesale
+CUST01034,Middle East,UAE,Abu Dhabi,Retail
+CUST01035,Asia,India,Delhi,Retail
+CUST01036,Europe,Spain,Barcelona,Retail
+CUST01037,South America,Brazil,São Paulo,Wholesale
+CUST01038,North America,USA,Seattle,Retail
+CUST01039,North America,USA,Chicago,E-commerce
+CUST01040,North America,Canada,Montreal,Retail
+CUST01041,North America,Mexico,Guadalajara,Retail
+CUST01042,Asia,South Korea,Seoul,Retail
+CUST01043,North America,USA,Los Angeles,Corporate
+CUST01044,Asia,Singapore,Singapore,Retail
+CUST01045,Europe,UK,Manchester,Retail
+CUST01046,Asia,China,Shenzhen,Retail
+CUST01047,North America,USA,New York,Retail
+CUST01048,Asia,Singapore,Singapore,Retail
+CUST01049,Middle East,UAE,Dubai,Corporate
+CUST01050,North America,USA,New York,Retail
+CUST01051,Europe,Spain,Madrid,Retail
+CUST01052,North America,Canada,Montreal,E-commerce
+CUST01053,North America,Mexico,Mexico City,E-commerce
+CUST01054,North America,USA,Boston,Retail
+CUST01055,South America,Brazil,Rio de Janeiro,Retail
+CUST01056,Europe,Netherlands,Amsterdam,Retail
+CUST01057,Asia,South Korea,Seoul,Retail
+CUST01058,Asia,India,Delhi,Corporate
+CUST01059,Europe,Spain,Barcelona,Retail
+CUST01060,Asia,China,Shenzhen,Corporate
+CUST01061,Asia,South Korea,Seoul,Wholesale
+CUST01062,North America,Mexico,Guadalajara,Wholesale
+CUST01063,North America,USA,Chicago,Retail
+CUST01064,North America,USA,Boston,Retail
+CUST01065,Asia,South Korea,Seoul,Wholesale
+CUST01066,Europe,Netherlands,Rotterdam,Wholesale
+CUST01067,North America,Canada,Toronto,E-commerce
+CUST01068,South America,Brazil,Rio de Janeiro,Retail
+CUST01069,Asia,South Korea,Seoul,Corporate
+CUST01070,Europe,Germany,Munich,Corporate
+CUST01071,North America,Mexico,Guadalajara,Corporate
+CUST01072,Europe,Spain,Barcelona,Retail
+CUST01073,Europe,Italy,Rome,Retail
+CUST01074,South America,Argentina,Buenos Aires,Retail
+CUST01075,Asia,Japan,Osaka,Retail
+CUST01076,North America,USA,Seattle,Corporate
+CUST01077,Asia,South Korea,Seoul,Retail
+CUST01078,Europe,UK,London,Retail
+CUST01079,North America,Canada,Montreal,Corporate
+CUST01080,Europe,UK,Manchester,Retail
+CUST01081,Middle East,UAE,Abu Dhabi,Corporate
+CUST01082,North America,Canada,Montreal,Retail
+CUST01083,Europe,Spain,Madrid,Retail
+CUST01084,Europe,Netherlands,Amsterdam,E-commerce
+CUST01085,Europe,France,Paris,Retail
+CUST01086,Asia,Japan,Tokyo,Retail
+CUST01087,Asia,Singapore,Singapore,Retail
+CUST01088,North America,USA,Dallas,Corporate
+CUST01089,Asia,China,Shanghai,E-commerce
+CUST01090,Asia,Japan,Osaka,E-commerce
+CUST01091,Asia,South Korea,Seoul,E-commerce
+CUST01092,North America,USA,Los Angeles,Wholesale
+CUST01093,Middle East,UAE,Abu Dhabi,Retail
+CUST01094,Middle East,UAE,Abu Dhabi,Retail
+CUST01095,Europe,France,Paris,Retail
+CUST01096,Europe,UK,London,Retail
+CUST01097,Europe,Italy,Milan,Corporate
+CUST01098,North America,Mexico,Guadalajara,Wholesale
+CUST01099,Europe,UK,Birmingham,Retail
+CUST01100,Asia,South Korea,Seoul,Retail
+CUST01101,Asia,Singapore,Singapore,Retail
+CUST01102,Asia,South Korea,Seoul,E-commerce
+CUST01103,Europe,France,Lyon,Retail
+CUST01104,Europe,Netherlands,Rotterdam,Retail
+CUST01105,Europe,France,Lyon,Corporate
+CUST01106,Europe,France,Lyon,Retail
+CUST01107,Middle East,Saudi Arabia,Riyadh,E-commerce
+CUST01108,North America,Mexico,Guadalajara,Corporate
+CUST01109,North America,Canada,Toronto,Retail
+CUST01110,Europe,France,Lyon,Retail
+CUST01111,Europe,Netherlands,Amsterdam,Corporate
+CUST01112,Asia,South Korea,Seoul,E-commerce
+CUST01113,South America,Brazil,São Paulo,Wholesale
+CUST01114,Europe,France,Lyon,E-commerce
+CUST01115,Asia,Japan,Tokyo,Wholesale
+CUST01116,Asia,China,Beijing,Wholesale
+CUST01117,Asia,China,Beijing,E-commerce
+CUST01118,Middle East,UAE,Abu Dhabi,Retail
+CUST01119,Europe,Spain,Barcelona,E-commerce
+CUST01120,Europe,France,Lyon,E-commerce
+CUST01121,Europe,Italy,Rome,Retail
+CUST01122,Asia,Singapore,Singapore,Retail
+CUST01123,North America,Mexico,Guadalajara,Retail
+CUST01124,Europe,UK,London,Corporate
+CUST01125,Europe,Italy,Rome,E-commerce
+CUST01126,Middle East,UAE,Dubai,Retail
+CUST01127,North America,Mexico,Mexico City,Wholesale
+CUST01128,Europe,Germany,Hamburg,E-commerce
+CUST01129,Asia,India,Mumbai,Retail
+CUST01130,South America,Argentina,Buenos Aires,Retail
+CUST01131,North America,Mexico,Mexico City,E-commerce
+CUST01132,Asia,India,Hyderabad,E-commerce
+CUST01133,Europe,UK,London,Corporate
+CUST01134,North America,USA,Dallas,E-commerce
+CUST01135,Asia,Singapore,Singapore,Corporate
+CUST01136,North America,USA,Dallas,Wholesale
+CUST01137,North America,Mexico,Guadalajara,Retail
+CUST01138,Asia,Singapore,Singapore,Retail
+CUST01139,North America,USA,Dallas,Retail
+CUST01140,Asia,South Korea,Seoul,E-commerce
+CUST01141,Asia,India,Mumbai,E-commerce
+CUST01142,North America,Mexico,Guadalajara,Wholesale
+CUST01143,Asia,South Korea,Seoul,Retail
+CUST01144,North America,USA,Dallas,Wholesale
+CUST01145,North America,Mexico,Guadalajara,Retail
+CUST01146,North America,USA,New York,Wholesale
+CUST01147,North America,USA,Dallas,Wholesale
+CUST01148,North America,USA,Los Angeles,Corporate
+CUST01149,Asia,China,Shenzhen,Corporate
+CUST01150,Asia,South Korea,Seoul,Retail
+CUST01151,Europe,France,Lyon,Retail
+CUST01152,Asia,Singapore,Singapore,Retail
+CUST01153,North America,Canada,Vancouver,E-commerce
+CUST01154,Asia,Singapore,Singapore,E-commerce
+CUST01155,Europe,Italy,Milan,Retail
+CUST01156,Asia,Japan,Tokyo,Corporate
+CUST01157,North America,Mexico,Mexico City,Wholesale
+CUST01158,Asia,India,Chennai,Retail
+CUST01159,Europe,Netherlands,Rotterdam,Retail
+CUST01160,Asia,South Korea,Seoul,Retail
+CUST01161,North America,USA,Boston,E-commerce
+CUST01162,Europe,Germany,Hamburg,E-commerce
+CUST01163,Asia,China,Shanghai,Corporate
+CUST01164,Asia,Singapore,Singapore,Corporate
+CUST01165,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST01166,Europe,Spain,Madrid,Corporate
+CUST01167,Asia,China,Shanghai,E-commerce
+CUST01168,Europe,Italy,Rome,Retail
+CUST01169,Europe,France,Paris,Corporate
+CUST01170,Asia,India,Hyderabad,Corporate
+CUST01171,Asia,Japan,Tokyo,Wholesale
+CUST01172,North America,USA,Seattle,Wholesale
+CUST01173,Europe,France,Paris,Corporate
+CUST01174,Asia,China,Shenzhen,Wholesale
+CUST01175,Asia,China,Shenzhen,Corporate
+CUST01176,Asia,Singapore,Singapore,Retail
+CUST01177,North America,Canada,Toronto,Retail
+CUST01178,North America,Mexico,Mexico City,Retail
+CUST01179,Asia,South Korea,Seoul,Corporate
+CUST01180,Asia,South Korea,Seoul,Retail
+CUST01181,North America,Canada,Montreal,Retail
+CUST01182,North America,USA,Seattle,Retail
+CUST01183,Asia,India,Pune,Wholesale
+CUST01184,Asia,Japan,Tokyo,Retail
+CUST01185,Europe,Germany,Munich,Retail
+CUST01186,North America,USA,Seattle,Retail
+CUST01187,North America,USA,Chicago,E-commerce
+CUST01188,Europe,Spain,Barcelona,E-commerce
+CUST01189,Europe,France,Paris,E-commerce
+CUST01190,Asia,Japan,Osaka,Corporate
+CUST01191,Europe,Netherlands,Amsterdam,Retail
+CUST01192,North America,Canada,Montreal,Wholesale
+CUST01193,Asia,Singapore,Singapore,Retail
+CUST01194,North America,USA,Boston,Corporate
+CUST01195,Middle East,Saudi Arabia,Riyadh,Wholesale
+CUST01196,Middle East,Saudi Arabia,Riyadh,Wholesale
+CUST01197,Asia,India,Mumbai,Retail
+CUST01198,North America,Canada,Toronto,Corporate
+CUST01199,Asia,Singapore,Singapore,Retail
+CUST01200,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST01201,Europe,France,Paris,Corporate
+CUST01202,Asia,India,Mumbai,Retail
+CUST01203,Europe,France,Lyon,Retail
+CUST01204,North America,Canada,Vancouver,Retail
+CUST01205,North America,USA,Los Angeles,E-commerce
+CUST01206,Asia,India,Delhi,Corporate
+CUST01207,Europe,Netherlands,Rotterdam,E-commerce
+CUST01208,Asia,South Korea,Seoul,Corporate
+CUST01209,North America,USA,New York,Retail
+CUST01210,Asia,India,Bangalore,Corporate
+CUST01211,North America,Mexico,Mexico City,Retail
+CUST01212,North America,Mexico,Guadalajara,Retail
+CUST01213,North America,Canada,Toronto,Retail
+CUST01214,South America,Argentina,Buenos Aires,Retail
+CUST01215,Europe,Netherlands,Amsterdam,Retail
+CUST01216,Asia,South Korea,Seoul,Corporate
+CUST01217,Asia,South Korea,Seoul,Wholesale
+CUST01218,Asia,Singapore,Singapore,Retail
+CUST01219,Asia,China,Beijing,Retail
+CUST01220,Asia,Japan,Osaka,Retail
+CUST01221,Europe,Netherlands,Amsterdam,Retail
+CUST01222,Europe,Germany,Berlin,Corporate
+CUST01223,Asia,Singapore,Singapore,Corporate
+CUST01224,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST01225,North America,Canada,Toronto,Retail
+CUST01226,North America,Canada,Vancouver,Wholesale
+CUST01227,Europe,UK,Birmingham,E-commerce
+CUST01228,Asia,Singapore,Singapore,Retail
+CUST01229,North America,Canada,Toronto,Wholesale
+CUST01230,Asia,China,Beijing,Retail
+CUST01231,Asia,India,Chennai,Retail
+CUST01232,North America,Canada,Montreal,Corporate
+CUST01233,Asia,Singapore,Singapore,Retail
+CUST01234,Asia,Singapore,Singapore,Retail
+CUST01235,North America,Canada,Montreal,E-commerce
+CUST01236,North America,Mexico,Mexico City,Retail
+CUST01237,South America,Argentina,Buenos Aires,Wholesale
+CUST01238,North America,Mexico,Mexico City,Corporate
+CUST01239,Europe,Netherlands,Rotterdam,Retail
+CUST01240,Asia,China,Beijing,Retail
+CUST01241,Asia,Japan,Osaka,Corporate
+CUST01242,North America,Mexico,Guadalajara,Corporate
+CUST01243,Asia,South Korea,Seoul,E-commerce
+CUST01244,Middle East,Saudi Arabia,Riyadh,Wholesale
+CUST01245,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST01246,Middle East,Saudi Arabia,Riyadh,Retail
+CUST01247,Europe,Spain,Madrid,Retail
+CUST01248,Asia,South Korea,Seoul,Retail
+CUST01249,North America,Mexico,Mexico City,Wholesale
+CUST01250,Europe,Italy,Rome,Retail
+CUST01251,North America,Mexico,Mexico City,Corporate
+CUST01252,Europe,Netherlands,Rotterdam,Corporate
+CUST01253,Asia,India,Chennai,Retail
+CUST01254,South America,Argentina,Buenos Aires,Retail
+CUST01255,Europe,Italy,Rome,E-commerce
+CUST01256,North America,USA,Chicago,Retail
+CUST01257,Asia,China,Shenzhen,Retail
+CUST01258,North America,Canada,Vancouver,Retail
+CUST01259,Asia,India,Chennai,E-commerce
+CUST01260,Europe,Spain,Barcelona,Retail
+CUST01261,Europe,Spain,Barcelona,Corporate
+CUST01262,Asia,South Korea,Seoul,Retail
+CUST01263,North America,Mexico,Mexico City,Corporate
+CUST01264,Europe,France,Paris,Retail
+CUST01265,Asia,India,Delhi,Retail
+CUST01266,Europe,Italy,Rome,Retail
+CUST01267,Asia,China,Shenzhen,Wholesale
+CUST01268,Middle East,UAE,Abu Dhabi,Wholesale
+CUST01269,South America,Argentina,Buenos Aires,Retail
+CUST01270,Middle East,UAE,Dubai,Retail
+CUST01271,Middle East,UAE,Abu Dhabi,E-commerce
+CUST01272,North America,USA,Dallas,E-commerce
+CUST01273,Europe,Italy,Milan,Retail
+CUST01274,Europe,Netherlands,Rotterdam,Corporate
+CUST01275,Asia,Singapore,Singapore,Corporate
+CUST01276,Middle East,UAE,Abu Dhabi,Retail
+CUST01277,North America,USA,Houston,E-commerce
+CUST01278,Middle East,UAE,Abu Dhabi,E-commerce
+CUST01279,Europe,Netherlands,Amsterdam,E-commerce
+CUST01280,North America,USA,Seattle,Retail
+CUST01281,Europe,Italy,Milan,Wholesale
+CUST01282,Asia,Japan,Osaka,Corporate
+CUST01283,North America,Canada,Vancouver,Retail
+CUST01284,Europe,UK,Birmingham,Wholesale
+CUST01285,Europe,Netherlands,Rotterdam,Retail
+CUST01286,Asia,Singapore,Singapore,Retail
+CUST01287,South America,Argentina,Buenos Aires,Retail
+CUST01288,North America,Canada,Toronto,Retail
+CUST01289,Asia,Japan,Tokyo,Wholesale
+CUST01290,North America,Mexico,Mexico City,Retail
+CUST01291,Europe,Germany,Munich,Retail
+CUST01292,Europe,Italy,Milan,Corporate
+CUST01293,Asia,China,Shenzhen,Retail
+CUST01294,Europe,UK,Birmingham,E-commerce
+CUST01295,Middle East,UAE,Dubai,Retail
+CUST01296,North America,Canada,Montreal,Retail
+CUST01297,Europe,Netherlands,Rotterdam,Wholesale
+CUST01298,South America,Brazil,Rio de Janeiro,E-commerce
+CUST01299,Europe,Italy,Milan,Retail
+CUST01300,North America,USA,Boston,Retail
+CUST01301,Europe,Italy,Rome,Retail
+CUST01302,North America,Canada,Toronto,Retail
+CUST01303,Asia,South Korea,Seoul,E-commerce
+CUST01304,Asia,Singapore,Singapore,Corporate
+CUST01305,Asia,Singapore,Singapore,Retail
+CUST01306,Asia,China,Shanghai,Retail
+CUST01307,South America,Argentina,Buenos Aires,Retail
+CUST01308,Middle East,UAE,Dubai,Corporate
+CUST01309,Europe,France,Lyon,Corporate
+CUST01310,Europe,UK,Manchester,Wholesale
+CUST01311,Asia,India,Bangalore,Retail
+CUST01312,South America,Argentina,Buenos Aires,E-commerce
+CUST01313,South America,Argentina,Buenos Aires,Retail
+CUST01314,North America,Mexico,Mexico City,Corporate
+CUST01315,Europe,France,Lyon,Retail
+CUST01316,Europe,Netherlands,Amsterdam,Retail
+CUST01317,Asia,Japan,Tokyo,E-commerce
+CUST01318,Asia,China,Beijing,Retail
+CUST01319,Asia,India,Delhi,E-commerce
+CUST01320,Europe,France,Paris,Retail
+CUST01321,North America,USA,Chicago,Wholesale
+CUST01322,Asia,China,Shenzhen,Corporate
+CUST01323,North America,Canada,Vancouver,Corporate
+CUST01324,Asia,South Korea,Seoul,E-commerce
+CUST01325,Europe,Spain,Barcelona,Retail
+CUST01326,Europe,Netherlands,Amsterdam,Retail
+CUST01327,Asia,Singapore,Singapore,Wholesale
+CUST01328,Asia,South Korea,Seoul,Retail
+CUST01329,Europe,Netherlands,Rotterdam,Retail
+CUST01330,Middle East,UAE,Dubai,Retail
+CUST01331,Asia,Japan,Osaka,Retail
+CUST01332,Asia,South Korea,Seoul,Retail
+CUST01333,North America,Canada,Toronto,E-commerce
+CUST01334,Asia,Singapore,Singapore,Corporate
+CUST01335,North America,USA,Seattle,Wholesale
+CUST01336,Europe,Netherlands,Rotterdam,Retail
+CUST01337,Asia,Singapore,Singapore,Wholesale
+CUST01338,North America,Canada,Montreal,Retail
+CUST01339,Europe,Netherlands,Rotterdam,E-commerce
+CUST01340,North America,USA,New York,E-commerce
+CUST01341,North America,Mexico,Mexico City,Retail
+CUST01342,Europe,UK,Manchester,Corporate
+CUST01343,Asia,India,Bangalore,Corporate
+CUST01344,North America,USA,Dallas,Retail
+CUST01345,North America,Canada,Toronto,Corporate
+CUST01346,Middle East,Saudi Arabia,Riyadh,Retail
+CUST01347,Asia,South Korea,Seoul,Corporate
+CUST01348,Asia,South Korea,Seoul,Wholesale
+CUST01349,North America,Canada,Montreal,Retail
+CUST01350,Europe,France,Paris,Corporate
+CUST01351,Europe,Italy,Rome,E-commerce
+CUST01352,North America,Mexico,Mexico City,Corporate
+CUST01353,North America,Canada,Toronto,Corporate
+CUST01354,South America,Brazil,Rio de Janeiro,Corporate
+CUST01355,North America,USA,Houston,E-commerce
+CUST01356,Asia,Japan,Osaka,Wholesale
+CUST01357,Asia,India,Chennai,Retail
+CUST01358,Asia,India,Delhi,E-commerce
+CUST01359,South America,Brazil,Rio de Janeiro,Wholesale
+CUST01360,North America,Mexico,Guadalajara,Corporate
+CUST01361,Middle East,UAE,Dubai,Corporate
+CUST01362,Europe,UK,London,Retail
+CUST01363,North America,USA,Dallas,Wholesale
+CUST01364,Europe,France,Lyon,Retail
+CUST01365,North America,Mexico,Mexico City,Retail
+CUST01366,North America,Canada,Montreal,E-commerce
+CUST01367,Europe,France,Lyon,Retail
+CUST01368,North America,Mexico,Guadalajara,Wholesale
+CUST01369,Europe,Spain,Madrid,E-commerce
+CUST01370,Asia,China,Beijing,Corporate
+CUST01371,North America,USA,Chicago,E-commerce
+CUST01372,Asia,China,Shenzhen,Wholesale
+CUST01373,Europe,UK,London,Retail
+CUST01374,Asia,China,Shenzhen,E-commerce
+CUST01375,Asia,Japan,Tokyo,Retail
+CUST01376,Asia,Singapore,Singapore,E-commerce
+CUST01377,North America,USA,Dallas,Wholesale
+CUST01378,Asia,Japan,Osaka,Corporate
+CUST01379,Europe,Netherlands,Rotterdam,Wholesale
+CUST01380,South America,Brazil,São Paulo,Retail
+CUST01381,North America,Canada,Montreal,Retail
+CUST01382,Europe,Italy,Rome,Retail
+CUST01383,Asia,Japan,Osaka,Retail
+CUST01384,North America,Canada,Vancouver,Retail
+CUST01385,North America,Mexico,Mexico City,Retail
+CUST01386,Asia,India,Hyderabad,Wholesale
+CUST01387,Asia,Singapore,Singapore,Retail
+CUST01388,North America,USA,Seattle,Retail
+CUST01389,Asia,South Korea,Seoul,Retail
+CUST01390,Middle East,UAE,Abu Dhabi,Corporate
+CUST01391,North America,USA,Houston,Corporate
+CUST01392,Asia,Japan,Osaka,Retail
+CUST01393,North America,Canada,Vancouver,Retail
+CUST01394,Asia,South Korea,Seoul,Retail
+CUST01395,Europe,Spain,Barcelona,E-commerce
+CUST01396,Asia,Japan,Tokyo,Corporate
+CUST01397,Asia,India,Mumbai,E-commerce
+CUST01398,Asia,Singapore,Singapore,Retail
+CUST01399,North America,USA,Seattle,Wholesale
+CUST01400,Europe,UK,Manchester,Retail
+CUST01401,Europe,Netherlands,Amsterdam,Retail
+CUST01402,Asia,Singapore,Singapore,Corporate
+CUST01403,Asia,China,Shenzhen,Retail
+CUST01404,North America,Canada,Toronto,E-commerce
+CUST01405,North America,Canada,Toronto,Retail
+CUST01406,Asia,Japan,Osaka,E-commerce
+CUST01407,Asia,India,Bangalore,Retail
+CUST01408,Europe,Italy,Milan,Corporate
+CUST01409,North America,USA,Houston,Retail
+CUST01410,Asia,Japan,Tokyo,E-commerce
+CUST01411,Asia,Singapore,Singapore,Corporate
+CUST01412,North America,Mexico,Mexico City,Corporate
+CUST01413,Asia,India,Delhi,Retail
+CUST01414,Europe,Netherlands,Amsterdam,E-commerce
+CUST01415,Middle East,UAE,Dubai,Retail
+CUST01416,Asia,South Korea,Seoul,E-commerce
+CUST01417,North America,USA,New York,E-commerce
+CUST01418,Asia,Japan,Tokyo,Corporate
+CUST01419,North America,Canada,Montreal,Corporate
+CUST01420,Europe,UK,Manchester,Retail
+CUST01421,Europe,Germany,Berlin,Retail
+CUST01422,Europe,Netherlands,Amsterdam,E-commerce
+CUST01423,Europe,Italy,Milan,Wholesale
+CUST01424,Asia,India,Bangalore,Corporate
+CUST01425,Middle East,Saudi Arabia,Riyadh,Retail
+CUST01426,Asia,China,Beijing,Retail
+CUST01427,Asia,China,Shenzhen,Wholesale
+CUST01428,South America,Brazil,São Paulo,Retail
+CUST01429,Asia,South Korea,Seoul,Retail
+CUST01430,North America,Mexico,Mexico City,Retail
+CUST01431,Europe,Netherlands,Rotterdam,Corporate
+CUST01432,North America,Mexico,Mexico City,Retail
+CUST01433,North America,Mexico,Mexico City,Retail
+CUST01434,Asia,Singapore,Singapore,E-commerce
+CUST01435,North America,USA,New York,Retail
+CUST01436,Asia,India,Delhi,Retail
+CUST01437,Asia,India,Pune,Retail
+CUST01438,Asia,Singapore,Singapore,Corporate
+CUST01439,North America,Canada,Vancouver,Corporate
+CUST01440,North America,USA,Los Angeles,Retail
+CUST01441,Middle East,Saudi Arabia,Riyadh,Wholesale
+CUST01442,North America,USA,Dallas,Wholesale
+CUST01443,Middle East,Saudi Arabia,Riyadh,Corporate
+CUST01444,Asia,Japan,Tokyo,Corporate
+CUST01445,North America,Mexico,Mexico City,Wholesale
+CUST01446,Europe,Italy,Rome,Retail
+CUST01447,Europe,France,Paris,E-commerce
+CUST01448,Europe,UK,Manchester,Corporate
+CUST01449,Asia,Singapore,Singapore,Retail
+CUST01450,South America,Brazil,Rio de Janeiro,Corporate
+CUST01451,North America,Mexico,Mexico City,Corporate
+CUST01452,North America,Mexico,Mexico City,Retail
+CUST01453,North America,Canada,Vancouver,Retail
+CUST01454,Europe,UK,Manchester,Corporate
+CUST01455,Middle East,Saudi Arabia,Riyadh,Retail
+CUST01456,North America,Mexico,Mexico City,Retail
+CUST01457,Europe,Netherlands,Amsterdam,Retail
+CUST01458,Asia,India,Pune,Corporate
+CUST01459,Asia,India,Mumbai,Corporate
+CUST01460,South America,Argentina,Buenos Aires,Retail
+CUST01461,North America,USA,New York,Retail
+CUST01462,North America,Canada,Montreal,Retail
+CUST01463,Asia,Japan,Osaka,Retail
+CUST01464,Asia,Singapore,Singapore,Retail
+CUST01465,North America,USA,Boston,E-commerce
+CUST01466,North America,Mexico,Mexico City,Corporate
+CUST01467,Asia,Japan,Tokyo,Retail
+CUST01468,Asia,Japan,Tokyo,Retail
+CUST01469,Europe,Spain,Madrid,Corporate
+CUST01470,Europe,UK,Birmingham,Retail
+CUST01471,North America,Canada,Vancouver,Wholesale
+CUST01472,Asia,South Korea,Seoul,E-commerce
+CUST01473,Middle East,Saudi Arabia,Riyadh,Retail
+CUST01474,Europe,Italy,Milan,Corporate
+CUST01475,Middle East,UAE,Dubai,E-commerce
+CUST01476,Asia,India,Chennai,Retail
+CUST01477,Europe,Germany,Munich,Corporate
+CUST01478,Asia,South Korea,Seoul,E-commerce
+CUST01479,North America,Canada,Montreal,Wholesale
+CUST01480,South America,Brazil,São Paulo,Wholesale
+CUST01481,Europe,Germany,Hamburg,Corporate
+CUST01482,Asia,China,Shenzhen,Corporate
+CUST01483,Asia,India,Delhi,Corporate
+CUST01484,Asia,Singapore,Singapore,Retail
+CUST01485,Asia,South Korea,Seoul,Retail
+CUST01486,North America,USA,Chicago,Wholesale
+CUST01487,Europe,UK,Birmingham,Retail
+CUST01488,Asia,Japan,Tokyo,Retail
+CUST01489,Asia,India,Bangalore,E-commerce
+CUST01490,Asia,Singapore,Singapore,Retail
+CUST01491,Asia,South Korea,Seoul,Retail
+CUST01492,Europe,France,Paris,Corporate
+CUST01493,Asia,Singapore,Singapore,Retail
+CUST01494,Europe,Spain,Barcelona,Retail
+CUST01495,Asia,India,Chennai,E-commerce
+CUST01496,North America,Mexico,Mexico City,Corporate
+CUST01497,Europe,France,Paris,Retail
+CUST01498,Europe,France,Paris,Corporate
+CUST01499,North America,Mexico,Mexico City,Retail
+CUST01500,Europe,UK,Birmingham,Retail
